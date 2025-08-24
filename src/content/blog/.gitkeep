@@ -1,0 +1,4 @@
+# Blog Content Directory
+
+This directory stores all blog posts as Markdown files.
+Each file should have the slug as the filename (e.g., best-karaoke-rooms-jerusalem.md)
